@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sam-lerner-portfolio-react/static/css/main.073c9b0a.css",
+    "main.js": "/sam-lerner-portfolio-react/static/js/main.dbc930ee.js",
+    "static/js/787.4ccde778.chunk.js": "/sam-lerner-portfolio-react/static/js/787.4ccde778.chunk.js",
+    "static/media/logo.svg": "/sam-lerner-portfolio-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sam-lerner-portfolio-react/index.html",
+    "main.073c9b0a.css.map": "/sam-lerner-portfolio-react/static/css/main.073c9b0a.css.map",
+    "main.dbc930ee.js.map": "/sam-lerner-portfolio-react/static/js/main.dbc930ee.js.map",
+    "787.4ccde778.chunk.js.map": "/sam-lerner-portfolio-react/static/js/787.4ccde778.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dbc930ee.js"
+  ]
+}
