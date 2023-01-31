@@ -30,13 +30,13 @@ function NavTabs({ currentPage, handlePageChange }) {
       </li>
       <li className="nav-item">
         <a
-          href="#blog"
-          onClick={() => handlePageChange('Blog')}
+          href="#resume"
+          onClick={() => handlePageChange('Resume')}
           //  TODO: Add a comment explaining what this logic is doing
           // This is a ternary operator. It is checking if the currentPage is equal to 'Blog' and if it is, it will return 'nav-link active' and if it is not, it will return 'nav-link'.
-          className={currentPage === 'Blog' ? 'nav-link active' : 'nav-link'}
+          className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
         >
-          Blog
+          Resume
         </a>
       </li>
       <li className="nav-item">
