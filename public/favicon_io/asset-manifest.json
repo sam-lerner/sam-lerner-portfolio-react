@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sam-lerner-portfolio-react/static/css/main.c2cab247.css",
+    "main.js": "/sam-lerner-portfolio-react/static/js/main.c6b8dfdd.js",
+    "index.html": "/sam-lerner-portfolio-react/index.html",
+    "main.c2cab247.css.map": "/sam-lerner-portfolio-react/static/css/main.c2cab247.css.map",
+    "main.c6b8dfdd.js.map": "/sam-lerner-portfolio-react/static/js/main.c6b8dfdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.c6b8dfdd.js"
+  ]
+}
